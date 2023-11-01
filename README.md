@@ -1,1 +1,1 @@
-# HTML_CSS-Full-course-
+# HTML-CSS (Full course)
