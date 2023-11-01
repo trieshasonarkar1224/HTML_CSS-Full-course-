@@ -22,14 +22,17 @@ Date:-31/11/2023
 ![Alt text](website.html.png)
 
 
+<br>
 
 Date:- 01/11/2023
 <br>
+
 
 [1] Made projects mentioned in the tutorial
 
 ![Alt text](index.html.png)
 <br>
+
 
 [2] Challenge Exercise mentioned in the tutorial
 
