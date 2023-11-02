@@ -13,7 +13,7 @@ Date:-31/11/2023
 [1] How to write html code and then turn it into website.
 <br>
 
-[2] How to write HTML Attributes ehich modify the behaviour of an element.
+[2] How to write HTML Attributes which modify the behaviour of an element.
 <br>
 
 [3] Also learnt about Syntax which rules we have to follow while writing our code.
