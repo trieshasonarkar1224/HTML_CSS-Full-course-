@@ -41,3 +41,28 @@ Date:- 01/11/2023
 <br>
 
 ![Alt text](amazon.html.png)
+<br>
+
+
+
+Date:- 02/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+✮CSS Basics
+<br>
+✮[1] Created element with HTML
+<br>
+
+✮[2] Style with CSS one-by-one
+
+![Alt text](button.html.png)
+
+<br>
+
+✮[3] Challenge exercise mentioned in the tutorial
+
+
+![Alt text](challenge-exercise.html.png)
