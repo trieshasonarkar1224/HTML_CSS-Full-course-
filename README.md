@@ -66,4 +66,25 @@ Enlisted below things I learnt today. 👇
 
 
 ![Alt text](challenge-exercise.html.png)
+<br>
 
+Date:- 02/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+About intermediate HTML skills
+<br>
+
+✮[1] Creating hover effects
+<br>
+
+✮[2] Transitions
+<br>
+
+✮[3] Shadows 
+<br>
+
+
+![Alt text](hover.effects.png)

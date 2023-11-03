@@ -7,9 +7,16 @@
     width: 105px;
     border-radius: 2px;
     cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+  }
+  .subscribe-button:hover {
+    opacity: 0.5;
+  }
+  .subscribe-button:active {
+    opacity: 5;
   }
 </style>
-
 
 <style>
   .join-button {
@@ -19,35 +26,42 @@
     border-style: solid;
     height: 36px;
     width: 62px;
-    cursor:pointer;
+    cursor: pointer;
     margin: 8px;
     border-radius: 2px;
+    transition: opacity 1s;
+    transition: background-color 0.15s, color 0.15;
+  }
+  .join-button:hover {
+    background-color: rgb(14, 142, 185);
+    color: white;
+  }
+  .join-button:active {
+    opacity: 0.4;
   }
 </style>
 
 <style>
-    .tweeter-button {
-        background-color: rgb(2, 158, 255);
-        height: 36px;
-        width: 70px;
-        border: none;
-        color: white;
-        border-radius: 20px;
-        margin-left : 8px;
-        font-style: normal;
-        cursor: pointer ;
-    }
-
+  .tweeter-button {
+    background-color: rgb(2, 158, 255);
+    height: 36px;
+    width: 70px;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    margin-left: 8px;
+    font-style: normal;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+    
+  }
+  .tweeter-button:hover {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+  }
 </style>
 
-<button class="subscribe-button">
-    SUBSCRIBE
-</button>
+<button class="subscribe-button">SUBSCRIBE</button>
 
-<button class="join-button">
-    JOIN
-</button>
+<button class="join-button">JOIN</button>
 
-<button class="tweeter-button">
-     Tweet
-    </button>
+<button class="tweeter-button">Tweet</button>
