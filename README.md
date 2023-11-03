@@ -51,7 +51,7 @@ About intermediate HTML skills
 <br> ✮[3] Shadows 
 <br>
 
-![Alt text](hover.efects.png)
+![Alt text](hover.effects.png)
 
 
 
