@@ -1,6 +1,5 @@
 # ✮ HTML-CSS (Full course) ✮
 <br>
-
 <b> <a href="https://youtu.be/G3e-cpL7ofc?si=Yb9xtvVlzGWIZteJ" target="_blank"> Link to tutorial </a></b>
 <br>
 
@@ -38,8 +37,7 @@ Enlisted below things I learnt today. 👇
 ✮CSS Basics
 <br>
 ✮[1] Created element with HTML
-<br>
-✮[2] Style with CSS one-by-one
+<br> ✮[2] Style with CSS one-by-one
 ![Alt text](button.html.png)
 <br>
 ✮[3] Challenge exercise mentioned in the tutorial
