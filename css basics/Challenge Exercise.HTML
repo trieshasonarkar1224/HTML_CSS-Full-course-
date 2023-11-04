@@ -1,5 +1,19 @@
-<b> <a href="https://www.amazon.com/" target="_blank"> Back To Amazon </a></b>
-
+<b>
+  <a class="link" href="https://www.amazon.com/" target="_blank">
+    Back To Amazon
+  </a></b
+>
+<style>
+  .link {
+    color: rgb(0, 81, 255);
+  }
+  .link:hover {
+    color: red;
+  }
+  .link:active {
+    color: rgb(0, 81, 255);
+  }
+</style>
 <p class="paragraph">Nike Black Running Shoes</p>
 <style>
   .paragraph {
@@ -13,7 +27,7 @@
   .in-stock {
     color: rgb(0, 118, 0);
     font-size: medium;
-    font-weight:bold;
+    font-weight: bold;
   }
 </style>
 
@@ -24,24 +38,38 @@
 <style>
   .add-button {
     background-color: rgb(255, 216, 20);
-    height: 28px;
-    width: 105px;
+    height: 40px;
+    width: 135px;
     border: none;
     border-radius: 30px;
     cursor: pointer;
+    font-weight: bold;
+    transition: opacity 0.2, background-color 0.2;
+  }
+  .add-button:hover {
+    background-color: rgb(233, 196, 12);
+  }
+  .add-button:active {
+    opacity: 0.5;
   }
 </style>
-<button class="buy-button">
-    Buy now
-</button>
+<button class="buy-button">Buy now</button>
 <style>
-    .buy-button {
-      background-color: rgb(255, 164, 28);
-      height: 28px;
-      width: 105px;
-      border: none;
-      border-radius: 30px;
-      margin-left: 8px;
-      cursor: pointer;
-    }
-  </style>
+  .buy-button {
+    background-color: rgb(255, 164, 28);
+    height: 40px;
+    width: 135px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: opacity 0.2, background-color 0.2;
+  }
+  .buy-button:hover {
+    background-color: rgb(233, 147, 16);
+  }
+  .buy-button:active {
+    opacity: 0.5;
+  }
+</style>

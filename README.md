@@ -53,8 +53,13 @@ About intermediate HTML skills
 
 
 ![Alt text](hover.effects.png)
+<br>
+
+✮Challenge Exercise
+<br>
 
 
+![Alt text](challenge.exercise.png)
 
 
 
