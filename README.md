@@ -60,10 +60,27 @@ About intermediate HTML skills
 
 
 ![Alt text](challenge.exercise.png)
+<br>
 
+Date:- 06/11/2023
+<br>
+Enlisted below things I learnt today. 👇
+<br>
 
+✮ Learnt About Chrome Development Tools
+<br>
+✮CSS Box Model
+<br>
 
+Date:- 06/11/2023
+<br>
+Enlisted below things I learnt today. 👇
+<br>
 
+✮ Text Style
+<br>
+
+✮ The HTML Structure
 
 
 
