@@ -100,6 +100,7 @@ Enlisted below things I learnt today. 👇
 
 [1] With the help padding 
 <br>
+
 <video src="cssbox.mp4" controls title="Title"></video>
 <br>
 
