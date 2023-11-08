@@ -72,12 +72,18 @@ Enlisted below things I learnt today. 👇
 ✮CSS Box Model
 <br>
 
+![Alt text](cssbox.png)
+<br>
+
 Date:- 06/11/2023
 <br>
 Enlisted below things I learnt today. 👇
 <br>
 
 ✮ Text Style
+<br>
+
+![Alt text](text.style.png)
 <br>
 
 ✮ The HTML Structure
