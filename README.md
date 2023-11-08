@@ -83,7 +83,8 @@ Enlisted below things I learnt today. 👇
 ✮ Text Style
 <br>
 
-![Alt text](text.style.png)
+![Alt text](text.png)
+
 <br>
 
 ✮ The HTML Structure
@@ -101,13 +102,17 @@ Enlisted below things I learnt today. 👇
 [1] With the help padding 
 <br>
 
-<video src="cssbox.mp4" controls title="Title"></video>
+<video> C:\Users\psona\OneDrive\Desktop\programming\git\HTML_CSS-Full-course--12\cssbox.mp4</video>
+
 <br>
 
 [2] Text style
 <b>
 
-![Alt text](text.style.png)
+
+![Alt text](text.challenge.png)
+
+
 
 
 
