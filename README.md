@@ -102,7 +102,7 @@ Enlisted below things I learnt today. 👇
 [1] With the help padding 
 <br>
 
-<video> C:\Users\psona\OneDrive\Desktop\programming\git\HTML_CSS-Full-course--12\cssbox.mp4</video>
+C:\Users\psona\OneDrive\Desktop\programming\git\HTML_CSS-Full-course--12\cssbox.mp4
 
 <br>
 
