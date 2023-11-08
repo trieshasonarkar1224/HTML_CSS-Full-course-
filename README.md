@@ -75,7 +75,7 @@ Enlisted below things I learnt today. 👇
 ![Alt text](cssbox.png)
 <br>
 
-Date:- 06/11/2023
+Date:- 07/11/2023
 <br>
 Enlisted below things I learnt today. 👇
 <br>
@@ -87,6 +87,27 @@ Enlisted below things I learnt today. 👇
 <br>
 
 ✮ The HTML Structure
+<br>
+
+Date:- 08/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+✮ Challenge exercises mentioned in the video
+<br> 
+
+[1] With the help padding 
+<br>
+<video src="cssbox.mp4" controls title="Title"></video>
+<br>
+
+[2] Text style
+<b>
+
+![Alt text](text.style.png)
+
 
 
 
