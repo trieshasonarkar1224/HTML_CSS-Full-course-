@@ -132,7 +132,7 @@ Enlisted below things I learnt today. 👇
 ![Alt text](today.png)
 <br>
 
-Date:- 010/11/2023
+Date:- 10/11/2023
 <br>
 
 Enlisted below things I learnt today. 👇
