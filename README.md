@@ -87,7 +87,7 @@ Enlisted below things I learnt today. 👇
 
 <br>
 
-✮ The HTML Structure
+
 <br>
 
 Date:- 08/11/2023
@@ -113,9 +113,42 @@ https://github.com/trieshasonarkar1224/HTML_CSS-Full-course-/assets/147965443/84
 
 ![Alt text](text.challenge.png)
 
+<br>
 
+Date:- 09/11/2023
+<br>
 
+Enlisted below things I learnt today. 👇
+<br>
 
+✮ The HTML Structure
+<br>
+
+[1] Learnt how to move css insto a separate file,using <link> element
+<br>
+[2] Challenge exercise mentioned in the tutorial
+<br>
+
+![Alt text](today.png)
+<br>
+
+Date:- 010/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+✮ Images and text boxes
+<br>
+
+![Alt text](<today 1.png>)
+
+<br>
+
+[1] Challenge exercise mentioned in the tutorial
+<br>
+
+![Alt text](<today 2.png>)
 
 
 
