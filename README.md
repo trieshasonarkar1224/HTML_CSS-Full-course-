@@ -172,7 +172,7 @@ Date:- 15/11/2023
 Enlisted below things I learnt today. 👇
 <br>
 
-[1] learnt about <div> element
+[1] learnt about < div > element
 
 ![Alt text](sts3.png)
 
