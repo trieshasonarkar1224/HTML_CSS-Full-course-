@@ -150,6 +150,56 @@ Enlisted below things I learnt today. 👇
 
 ![Alt text](<today 2.png>)
 
+<br>
+
+Date:- 14/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+✮ [1] css display property
+
+![Alt text](sts1.png)
+
+✮ [2] challenge excercise mentioned in the video 
+
+![Alt text](sts2.png)
+
+Date:- 15/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+[1] learnt about <div> element
+
+![Alt text](sts3.png)
+
+[2] challenge excercise mentioned in the video
+
+![Alt text](sts4.png)
+
+Date:- 16/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+[1] nested layouts techniques
+
+![Alt text](sts5.png)
+
+Date:- 17/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+[2] challenge excercise mentioned in the video
+
+![Alt text](sts6.png)
+
 
 
 
