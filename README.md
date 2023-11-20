@@ -196,19 +196,44 @@ Date:- 17/11/2023
 Enlisted below things I learnt today. 👇
 <br>
 
-[2] challenge excercise mentioned in the video
+[1] challenge excercise mentioned in the video
 
 ![Alt text](sts6.png)
 
 
+<br>
 
+Date:- 20/11/2023
+<br>
 
+Enlisted below things I learnt today. 👇
+<br>
 
+[1] Css grid
+<br>
 
+![Alt text](css-grid.png)
+<br>
 
+![Alt text](css-grid1.png)
+<br>
 
+[2] challenge excercise
+<br>
 
+![Alt text](chlexr.png)
+<br>
 
+[3] FlexBox
+<br>
+
+![Alt text](FlexBox1.png)
+<br>
+
+[4] Challenge excercise
+<br>
+
+![Alt text](FelxBox2.png)
 
 
 
