@@ -246,7 +246,9 @@ Enlisted below things I learnt today. 👇
 <br>
 
 [2] practice excercises
+<br>
 
+![Alt text](yts1.png)
 
 <br>
 
@@ -262,6 +264,10 @@ Enlisted below things I learnt today. 👇
 [2] practice excercises
 
 <br>
+
+![Alt text](yts2.png)
+![Alt text](yts3.png)
+
 
 Date:- 23/11/2023
 <br>
