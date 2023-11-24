@@ -236,7 +236,43 @@ Enlisted below things I learnt today. 👇
 ![Alt text](FelxBox2.png)
 
 
+Date:- 21/11/2023
+<br>
 
+Enlisted below things I learnt today. 👇
+<br>
+
+[1] nested flexbox
+<br>
+
+[2] practice excercises
+
+
+<br>
+
+Date:- 22/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+[1] css position (absolute and relative)
+<br>
+
+[2] practice excercises
+
+<br>
+
+Date:- 23/11/2023
+<br>
+
+Enlisted below things I learnt today. 👇
+<br>
+
+[1] completed with html & css crash course (created the clone of youtube)
+<br>
+
+![Alt text](yt1.png)
 
 
 
