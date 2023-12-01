@@ -2,7 +2,7 @@
 <br>
 <b> <a href="https://youtu.be/G3e-cpL7ofc?si=Yb9xtvVlzGWIZteJ" target="_blank"> Link to tutorial </a></b>
 <br>
-Date:-31/11/2023
+Date:-31/10/2023
 <br>
 Enlisted below things I learnt today. 👇
 <br>
